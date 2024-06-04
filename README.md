@@ -23,7 +23,6 @@ O endpoint necessário gerado pelo server.go para este desafio será: /cotacao e
 
    ```bash
    git clone https://github.com/tiagoravache/posgoexpert-desafio-server-client.git
-   cd pos-go-expert/challenge-server-client
    ```
 
 2. Instale as dependências:
